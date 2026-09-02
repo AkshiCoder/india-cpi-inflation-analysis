@@ -220,3 +220,24 @@ The analysis highlights the importance of food prices, pandemic-related disrupti
 ### ⭐ Project Highlight
 
 > A real-world economic data analysis project demonstrating end-to-end data cleaning, analysis, visualization, and insight generation using Excel.
+
+---
+
+## 📊 Project Visuals
+
+### Analysis 1
+![Analysis 1](visuals/Analysis%201.jpeg)
+
+### Analysis 2
+![Analysis 2](visuals/Analysis%202.jpeg)
+
+### Analysis 3
+![Analysis 3](visuals/Analysis%203.jpeg)
+
+### Analysis 4
+![Analysis 4](visuals/Analysis%204.jpeg)
+
+### Analysis 5
+![Analysis 5](visuals/Analysis%205.jpeg)
+
+---
